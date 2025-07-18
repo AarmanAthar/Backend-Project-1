@@ -11,5 +11,8 @@
   ],
   "author": "Aarman Athar",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
